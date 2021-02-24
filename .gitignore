@@ -2,3 +2,8 @@
 /src/config.php
 # Ignoring startup folder
 /src/vendor/*
+
+/.idea
+/.idea/*
+/src/.idea
+/src/.idea/*

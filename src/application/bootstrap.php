@@ -1,3 +1,5 @@
 <?php
-	use application\core\Route;
-	Route::start();
+
+use application\core\Route;
+
+Route::start();

@@ -1,10 +1,10 @@
 <?php
-	
-	return [
-		// Database connection data
-		"host" => "",
-		"dbname" => "",
-		"user" => "",
-		"password" => "",
-	];
+
+return [
+    // Database connection data
+    "host" => "",
+    "dbname" => "",
+    "user" => "",
+    "password" => "",
+];
 	
