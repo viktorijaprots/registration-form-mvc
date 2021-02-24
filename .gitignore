@@ -1,0 +1,4 @@
+# Ignoring the folder with real configs
+/src/config.php
+# Ignoring startup folder
+/src/vendor/*
